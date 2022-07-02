@@ -1,0 +1,4 @@
+﻿  7-3.c
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+7-3.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  2022 7 3.vcxproj -> D:\code\2022 7 3\Debug\2022 7 3.exe
