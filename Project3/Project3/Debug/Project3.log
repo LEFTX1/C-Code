@@ -1,0 +1,2 @@
+﻿pro.obj : error LNK2005: _main 已经在 p.obj 中定义
+D:\code\Project3\Debug\Project3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
